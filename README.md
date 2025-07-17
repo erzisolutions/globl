@@ -1,1 +1,14 @@
-# globl.-rzi
+# Globl Website Template
+
+This repository provides a minimal starting point for building a Globl website.
+
+## Features
+- Basic project structure
+- Placeholder pages and assets
+
+## Getting Started
+1. Clone the repository.
+2. Customize the HTML, CSS, and images to match your content.
+3. Deploy the site using your preferred hosting provider.
+
+Feel free to adapt this template for your own needs.
