@@ -1,14 +1,15 @@
-# Globl Website Template
+# Globl Dashboard Template
 
-This repository provides a minimal starting point for building a Globl website.
+This project provides a starter dashboard for a futuristic call center named **Globl**. The design targets both agents and team leaders and includes a simple interface you can extend with real data.
 
 ## Features
-- Basic project structure
-- Placeholder pages and assets
+- Dark-themed layout with sidebar navigation
+- Sample metrics that update automatically
+- Table for queue overview
 
 ## Getting Started
 1. Clone the repository.
-2. Customize the HTML, CSS, and images to match your content.
-3. Deploy the site using your preferred hosting provider.
+2. Open `index.html` in your browser to view the dashboard.
+3. Modify `styles.css` and `script.js` to integrate your own data or branding.
 
-Feel free to adapt this template for your own needs.
+Feel free to adapt this template for your needs.
