@@ -18,5 +18,3 @@ This repository now contains a minimal WordPress theme and plugin named **Globl*
 3. Activate the **Globl Admin Tools** plugin.
 4. Visit **Globl Workforce** in the admin menu to create projects.
 5. Use the **Workflow Builder** submenu to craft advanced workflows.
-
-This code is a starting point for building more advanced forms, diagrams, and stats into a call-center solution.
