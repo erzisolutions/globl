@@ -1,5 +1,4 @@
 # Globl WordPress Extension
-
 This repository now contains a minimal WordPress theme and plugin named **Globl**. The theme provides a white business look, while the plugin introduces basic workforce management features, custom roles, a project system and a powerful workflow builder.
 
 ## Contents
